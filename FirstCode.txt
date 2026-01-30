@@ -1,2 +1,5 @@
 hello world !!!+++
 take input from user.
+
+taken data from user s
+submit data to database
